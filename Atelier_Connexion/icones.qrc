@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>icone/boutique.png</file>
+        <file>icone/cients.png</file>
+        <file>icone/livrasion.png</file>
+        <file>icone/personnel.png</file>
+        <file>icone/stock.png</file>
+        <file>icone/quitter.png</file>
+        <file>icone/menu.png</file>
+        <file>icone/serach.png</file>
+        <file>icone/reglage.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icone/achat.png</file>
+        <file>icone_2.qrc</file>
+    </qresource>
+</RCC>
