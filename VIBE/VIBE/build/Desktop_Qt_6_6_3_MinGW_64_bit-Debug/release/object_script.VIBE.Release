@@ -1,0 +1,10 @@
+release/Employes.o
+release/acceuil.o
+release/connexion.o
+release/main.o
+release/mainwindow.o
+release/qrc_background.o
+release/qrc_icones.o
+release/qrc_logo.o
+release/moc_acceuil.o
+release/moc_mainwindow.o
