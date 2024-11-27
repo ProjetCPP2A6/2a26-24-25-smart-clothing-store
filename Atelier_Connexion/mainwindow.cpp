@@ -28,7 +28,7 @@ void MainWindow::on_connexion_clicked()
         QMessageBox::information(this,"LOGIN","connexion établie");
         hide();
 
-        acc=new acceuil(this);
+        acc=new acceuil();
         acc->show();
     }
     else {
@@ -36,4 +36,5 @@ void MainWindow::on_connexion_clicked()
     }
 
 }
+
 

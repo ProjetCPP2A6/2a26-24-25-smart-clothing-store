@@ -1,0 +1,10 @@
+debug/acceuil.o
+debug/main.o
+debug/mainwindow.o
+debug/connection.o
+debug/produit.o
+debug/stockmodel.o
+debug/stockwindow.o
+debug/moc_acceuil.o
+debug/moc_mainwindow.o
+debug/moc_stockmodel.o

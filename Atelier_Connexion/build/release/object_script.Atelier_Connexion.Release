@@ -1,0 +1,10 @@
+release/acceuil.o
+release/main.o
+release/mainwindow.o
+release/connection.o
+release/produit.o
+release/stockmodel.o
+release/stockwindow.o
+release/moc_acceuil.o
+release/moc_mainwindow.o
+release/moc_stockmodel.o

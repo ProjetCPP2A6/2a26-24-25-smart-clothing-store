@@ -25,16 +25,19 @@ public:
     bool supprimer(int REFPROD);
     QSqlQueryModel* afficher();
     bool modifier(int REFPROD, QString newNOMP, QString newTYPEP, QString newTAILLEPROD, int newQUANTITE, QString newCOULEUR);
-
-
+    QSqlQueryModel* afficher2();
+    QSqlQueryModel* afficher3();
+    QSqlQueryModel* afficher4();
+    QSqlQueryModel* afficher5();
 
 private:
-    int REFPROD;
+        int REFPROD;
         QString TYPEP;
         QString NOMP;
         QString TAILLEPROD;
         int QUANTITE;
         QString COULEUR;
+
 };
 
 #endif // PRODUIT_H

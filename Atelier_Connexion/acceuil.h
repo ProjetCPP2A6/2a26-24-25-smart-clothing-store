@@ -38,6 +38,24 @@ private slots:
 
     void on_pushButton_19_clicked();
 
+    void on_pushButton_11_clicked();
+
+    void on_pushButton_12_clicked();
+
+    void on_pushButton_13_clicked();
+
+    void on_comboBox_3_currentIndexChanged(int index);
+
+    void on_pushButton_14_clicked();
+
+    void on_comboBox_4_currentIndexChanged(int index);
+
+    void on_pushButton_15_clicked();
+
+    void createPieChart();
+
+    void on_pushButton_21_clicked();
+
 private:
     Ui::acceuil *ui;
 };
