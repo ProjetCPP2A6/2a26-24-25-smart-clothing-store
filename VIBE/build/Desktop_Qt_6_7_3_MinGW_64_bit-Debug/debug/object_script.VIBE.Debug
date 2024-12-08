@@ -1,0 +1,11 @@
+debug/acceuil.o
+debug/arduino.o
+debug/clients.o
+debug/connection.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_background.o
+debug/qrc_icones.o
+debug/qrc_logo.o
+debug/moc_acceuil.o
+debug/moc_mainwindow.o
