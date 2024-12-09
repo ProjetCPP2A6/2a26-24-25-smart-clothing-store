@@ -1,0 +1,12 @@
+debug/ArduinoDatabaseLink.o
+debug/acceuil.o
+debug/connection.o
+debug/livraisons.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_background.o
+debug/qrc_icones.o
+debug/qrc_logo.o
+debug/moc_ArduinoDatabaseLink.o
+debug/moc_acceuil.o
+debug/moc_mainwindow.o
